@@ -1,5 +1,4 @@
 import React from 'react';
-import PropTypes from 'prop-types';
 import { render, Artboard } from 'react-sketchapp';
 import SwatchList from './components/SwatchList';
 import { colorPalettes } from './colors';
