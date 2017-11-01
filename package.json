@@ -2,7 +2,7 @@
   "name": "basic-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "basic-setup.sketchplugin",
+  "main": "material-colors.sketchplugin",
   "manifest": "src/manifest.json",
   "scripts": {
     "build": "skpm build",
