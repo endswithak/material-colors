@@ -1,11 +1,7 @@
-# Basic setup
-
+# Material Colors
+![Material Colors Example](screen.png)
 ## How to use
-Download the example or [clone the repo](http://github.com/airbnb/react-sketchapp):
-```
-curl https://codeload.github.com/airbnb/react-sketchapp/tar.gz/master | tar -xz --strip=2 react-sketchapp-master/examples/basic-setup
-cd basic-setup
-```
+Download the example or [clone the repo](http://github.com/endswithak/material-colors):
 
 Install the dependencies
 ```
@@ -22,10 +18,4 @@ Or, to install as a Sketch plugin:
 npm run build
 npm run link-plugin
 ```
-Then, open Sketch and navigate to `Plugins → react-sketchapp: Basic skpm Example`
-
-## The idea behind the example
-
-[`skpm`](https://github.com/sketch-pm/skpm) is the easiest way to build `react-sketchapp` projects - this is a minimal example of it in use.
-
-![examples-basic](https://cloud.githubusercontent.com/assets/591643/24778192/1f0684ec-1ade-11e7-866b-b11bb60ac109.png)
+Then, open Sketch and navigate to `Plugins → material-colors`

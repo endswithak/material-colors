@@ -1,5 +1,5 @@
 {
-  "name": "basic-setup",
+  "name": "material-colors",
   "version": "1.0.0",
   "description": "",
   "main": "material-colors.sketchplugin",
@@ -11,7 +11,7 @@
     "render:once": "skpm build --run",
     "link-plugin": "skpm link"
   },
-  "author": "Jon Gold <jon.gold@airbnb.com>",
+  "author": "Erik Myers <erik@erik.design>",
   "license": "MIT",
   "devDependencies": {
     "skpm": "^0.10.2"
